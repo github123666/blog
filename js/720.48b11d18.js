@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdiary"]=self["webpackChunkdiary"]||[]).push([[720],{720:function(r,e,u){u.r(e),u.d(e,{default:function(){return f}});var t=function(){var r=this,e=r._self._c;return e("a",{attrs:{href:r.xxs}},[r._v("跳转")])},n=[],s={name:"xxs",computed:{xxs(){return this.$route.query.keyWord}}},a=s,l=u(1001),c=(0,l.Z)(a,t,n,!1,null,null,null),f=c.exports}}]);
+//# sourceMappingURL=720.48b11d18.js.map
