@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkdiary"]=self["webpackChunkdiary"]||[]).push([[2671],{2671:function(e,i,n){e.exports=n.p+"img/mind.png"}}]);

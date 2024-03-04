@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkdiary"]=self["webpackChunkdiary"]||[]).push([[1736],{1736:function(p,e,i){p.exports=i.p+"img/copylink.jpg"}}]);

@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkdiary"]=self["webpackChunkdiary"]||[]).push([[1791],{1791:function(e,n,r){r.r(n),r.d(n,{default:function(){return c}});var t=function(){var e=this,n=e._self._c;return n("MarkdownToVue",{attrs:{markdown:"## 理解requests库中的stream\n> requests.get('xxxx',stream=True)\n+ 使用stream和不使用的区别：\n  - 不使用：会等待视频下载完后才将响应体加载到内存中\n  - 使用：会向服务一块一块读取   \n\n使用stream可以尽早的处理数据,不用等全部视频下载完"}})},s=[],u=r(1001),a={},l=(0,u.Z)(a,t,s,!1,null,null,null),c=l.exports}}]);
-//# sourceMappingURL=1791.0bcc4ad6.js.map
