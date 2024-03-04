@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkdiary"]=self["webpackChunkdiary"]||[]).push([[656,532],{9656:function(n,t,r){r.r(t),r.d(t,{default:function(){return c}});var u=function(){var n=this;n._self._c;return n._m(0)},i=[function(){var n=this,t=n._self._c;return t("div",[t("h2",[n._v("搭建思路")]),t("p",[t("img",{attrs:{alt:"mind",src:r(7532)}})])])}],e=r(1001),s={},l=(0,e.Z)(s,u,i,!1,null,null,null),c=l.exports},7532:function(n,t,r){n.exports=r.p+"img/mind.22e8bd1f.png"}}]);
-//# sourceMappingURL=656.b54affb1.js.map

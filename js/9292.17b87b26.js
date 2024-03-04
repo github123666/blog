@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdiary"]=self["webpackChunkdiary"]||[]).push([[9292],{9292:function(n,l,a){a.r(l),a.d(l,{default:function(){return c}});var r=function(){var n=this,l=n._self._c;return l("MarkdownToVue",{attrs:{markdown:"## global和nonlocal\n1. 两者都是关于作用域的\n2. 两者的用法基本相同\n3. 两者都可以对现有的作用域扩展\n## global\n+ 作用于全局作用域\n  \n## nonlocal\n+ 作用于当前作用域的上层作用域 (解决了当前作用域和上一个作用域命名冲突,导致访问不了上层作用域的原因)"}})},u=[],o=a(1001),t={},e=(0,o.Z)(t,r,u,!1,null,null,null),c=e.exports}}]);
+//# sourceMappingURL=9292.17b87b26.js.map

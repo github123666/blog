@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdiary"]=self["webpackChunkdiary"]||[]).push([[2518],{2518:function(n,t,r){r.r(t),r.d(t,{default:function(){return i}});var u=function(){var n=this,t=n._self._c;return t("MarkdownToVue",{attrs:{markdown:"## tkinter.mainloop()\n展示所有控件\n## root.title()\n用来给主程序窗口命名的\n"}})},e=[],l=r(1001),a={},o=(0,l.Z)(a,u,e,!1,null,null,null),i=o.exports}}]);
+//# sourceMappingURL=2518.1bd1262c.js.map

@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkdiary"]=self["webpackChunkdiary"]||[]).push([[2958],{2958:function(e,s,i){e.exports=i.p+"img/demonstration2.22926fb7.jpg"}}]);

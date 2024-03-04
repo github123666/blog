@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdiary"]=self["webpackChunkdiary"]||[]).push([[4866],{4866:function(n,r,t){t.r(r),t.d(r,{default:function(){return f}});var a=function(){var n=this,r=n._self._c;return r("MarkdownToVue",{attrs:{markdown:"## 抓gxu 5.0 包\n### 粗略分析\n存在一下检测\n1. 检测frida (使用frida spawn模式 卡死在进入界面)  \n2. 不走系统代理(开系统代理app正常使用)    \n3. 不支持安卓5(闪退)      \n4. 检测xposed强制https代理    \n5. 检测HttpCanary    \n总结:用的flutter开发,不好逆向     "}})},u=[],e=t(1001),s={},l=(0,e.Z)(s,a,u,!1,null,null,null),f=l.exports}}]);
+//# sourceMappingURL=4866.48e9fd8e.js.map

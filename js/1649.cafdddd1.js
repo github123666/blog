@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdiary"]=self["webpackChunkdiary"]||[]).push([[1649],{1649:function(e,r,n){n.r(r),n.d(r,{default:function(){return l}});var a=function(){var e=this,r=e._self._c;return r("MarkdownToVue",{attrs:{markdown:"## 日志记录\n日志记录函数: logger.debug, logger.info,logger.warning,logger.error.  \n参数:(message,*args,**keyward)args用于格式化字符串,配合message使用,message中可以包含%s,%d,%f等\n  \n**keyward exc_info 表示是否包含错误信息,stack_info 表示是否打印堆栈信息"}})},s=[],g=n(1001),o={},u=(0,g.Z)(o,a,s,!1,null,null,null),l=u.exports}}]);
+//# sourceMappingURL=1649.cafdddd1.js.map
