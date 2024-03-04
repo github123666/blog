@@ -12,6 +12,6 @@
 ### 抓pc端包
 准备环境:burp   
 win + r 输入 inetcpl.cpl 连接 -> 局域网设置,填写目标burp代理的端口
-![img](./static/proxy_evn.png)
+![img](./img/proxy_evn.png)
 打开xweb就可以抓到目标网页
 ## pc班级任务访问不了" /> </template>
