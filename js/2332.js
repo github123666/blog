@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdiary"]=self["webpackChunkdiary"]||[]).push([[2332],{2332:function(n,r,u){u.r(r),u.d(r,{default:function(){return s}});var t=function(){var n=this,r=n._self._c;return r("MarkdownToVue",{attrs:{markdown:"## 搭建思路\n![mind](./img/mind.png)"}})},e=[],a=u(1001),i={},l=(0,a.Z)(i,t,e,!1,null,null,null),s=l.exports}}]);
+//# sourceMappingURL=2332.js.map
