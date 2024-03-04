@@ -126,6 +126,11 @@ a {
 li {
   list-style: none;
 }
+code {
+  white-space: pre-wrap; /* 保留空白符且允许换行 */
+  word-break: break-word; /* 避免因长单词导致滚动条出现 */
+  overflow-wrap: break-word; /* 同上，但更好的支持 */
+}
 
 /* 过渡 */
 .fade-enter-active,

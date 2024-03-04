@@ -4,8 +4,9 @@ import data from "@/assets/route.json"
 let routes = []
 data.forEach(element => {
     if (element.component) {
-        let test = element.component
-        element.component = () => import(`@/pages${test}`)
+        // 按需加载
+        let filename = element.component
+        element.component = () => import(`@/pages${filename}`)
     }
     routes.push(element)
 });
