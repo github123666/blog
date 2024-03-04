@@ -20,7 +20,7 @@ git reset --hard [commitMd5]
 ## 查看日志
 git log
 ## 查看提交
-git stusta
+git status
 ## 撤销修改
 git checkout -- filename
 ## 与远程库关联
